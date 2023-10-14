@@ -3,7 +3,7 @@
 title: Wanzhen Fu's Planet
 logo:  'https://github.com/alisaaafu1/wanzhenfu_web1.github.io/blob/main/images/logo.jpg'
 description: Creative Portfolio Theme for Jekyll.
-color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -51,7 +51,7 @@ hero:
   enable: true
   hero__title: Welcome to Wanzhen Fu's planet.
   hero__description:  Nice to meet u :)
-  hero__image: "/wanzhenfu_web1.github.io/images/me0.png"
+  hero__image: '/images/me0.png'
 
 
 #-------------------------------
